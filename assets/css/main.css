@@ -46,3 +46,7 @@ footer h5{
   padding-bottom: 2%;
   padding-right: 2%;
 }
+
+.panda-face, .panda-two, .panda-lazy{
+  filter: grayscale(100%);
+}
