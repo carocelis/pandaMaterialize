@@ -1,0 +1,48 @@
+
+.row{
+  margin: 0px;
+}
+
+.row .col{
+  padding: 0px;
+}
+
+img{
+  vertical-align: top;
+}
+
+.panda-face{
+  width: 100%;
+}
+
+.title h1, p{
+  padding-right: 3%;
+}
+
+.about-panda{
+  padding-top: 6%;
+  padding-bottom: 6%;
+  padding-left: 25%;
+  padding-right: 25%;
+  border-top: 15px solid #ff8a65;
+  border-bottom: 15px solid #ff8a65;
+}
+
+.pictures{
+  padding: 5%;
+  border-top: 15px solid #ff8a65;
+  border-bottom: 15px solid #ff8a65;
+}
+
+.pictures h4{
+  padding-bottom: 3%;
+}
+
+.pictures img{
+  border: 5px solid white;
+}
+
+footer h5{
+  padding-bottom: 2%;
+  padding-right: 2%;
+}
